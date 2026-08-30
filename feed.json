@@ -1,0 +1,25 @@
+{
+  "providerName": "Meu Aplicativo VOD",
+  "lastUpdated": "2026-08-30T15:00:00Z",
+  "movies": [
+    {
+      "id": "meu-malvado-favorito-3",
+      "title": "Meu Malvado Favorito 3",
+      "shortDescription": "Gru conhece seu irmão gêmeo Dru, rico e charmoso, e decide se unir a ele para derrotar um antigo vilão dos anos 80.",
+      "thumbnail": "https://archive.org",
+      "genres": ["Animação", "Comédia", "Família"],
+      "releaseDate": "2017-06-30",
+      "content": {
+        "videos": [
+          {
+            "url": "LINK_FINAL_DO_VIDEO_AQUI.mp4",
+            "quality": "HD",
+            "videoType": "mp4"
+          }
+        ],
+        "duration": 5400
+      }
+    }
+  ],
+  "series": []
+}
