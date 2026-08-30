@@ -12,9 +12,9 @@
       "content": {
         "videos": [
           {
-            "url": "https://twostore.net/direct/14pR2RJjWt4PAlinCMq1xxBecOYWyob27",
+            "url": "https://twostore.net/hls/14pR2RJjWt4PAlinCMq1xxBecOYWyob27",
             "quality": "HD",
-            "videoType": "mp4"
+           "videoType": "hls"
           }
         ],
         "duration": 5400
