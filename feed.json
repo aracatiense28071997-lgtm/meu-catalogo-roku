@@ -6,13 +6,13 @@
       "id": "meu-malvado-favorito-3",
       "title": "Meu Malvado Favorito 3",
       "shortDescription": "Gru conhece seu irmão gêmeo Dru, rico e charmoso, e decide se unir a ele para derrotar um antigo vilão dos anos 80.",
-      "thumbnail": "https://archive.org//download/meu-malvado-favorito-3-infantil-paixaoflix/Meu%20Malvado%20Favorito%203.mp4"
+      "thumbnail": "https://archive.org//download/meu-malvado-favorito-3-infantil-paixaoflix//meu-malvado-favorito-3-infantil-paixaoflix_vti.m3u8"
       "genres": ["Animação", "Comédia", "Família"],
       "releaseDate": "2017-06-30",
       "content": {
         "videos": [
           {
-            "url": "https://archive.org/download/meu-malvado-favorito-3-infantil-paixaoflix/Meu%20Malvado%20Favorito%203.mp4"
+            "url": "https://archive.org/download/meu-malvado-favorito-3-infantil-paixaoflix//meu-malvado-favorito-3-infantil-paixaoflix_vti.m3u8"
             "quality": "HD",
             "videoType": "hls"
           }
